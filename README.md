@@ -31,3 +31,6 @@ The dataset used is `weatherAUS.csv`, which can be downloaded from [Kaggle](http
 3. **Modeling**: Train different machine learning models such as Logistic Regression, Decision Trees, Random Forest, and XGBoost.
 4. **Evaluation**: Evaluate models using metrics like accuracy, precision, recall, and F1-score.
 5. **Optimization**: Use techniques like cross-validation and hyperparameter tuning for improving model performance.
+
+## Results
+The trained model achieves an accuracy of around 86% on the test dataset. The final model is evaluated using a confusion matrix, precision-recall curves, and ROC curves. Key insights from the data include the importance of features such as humidity, temperature, and wind speed in predicting rainfall.
